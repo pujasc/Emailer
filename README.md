@@ -1,2 +1,2 @@
-# PartyHerd
-Webapp
+# Emailer
+
